@@ -1,0 +1,9 @@
+# requirements.txt
+aiogram==2.25.2
+openai
+sentence-transformers
+python-docx
+pdfminer.six
+beautifulsoup4
+requests
+langdetect

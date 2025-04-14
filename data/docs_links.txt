@@ -1,0 +1,6 @@
+# docs_links.txt (в папке data)
+https://platformv.sbertech.ru/products/rabota-s-dannymi/pangolin
+https://platformv.sbertech.ru/products/low-code/flow
+https://platformv.sbertech.ru/products/instrumenty-razrabotchika/giga-code
+https://sbertech.ru/documents/platform-v-flow/6.1.0
+file:///Users/peterallen/Downloads/Opisanie_funkczionalnyh_harakteristik_BPM_e7cc8cd3f5.pdf
